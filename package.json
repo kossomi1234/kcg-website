@@ -1,0 +1,9 @@
+{
+  "name": "kcg-website",
+  "version": "1.0.0",
+  "description": "Kossomi CyberGuard (KCG) website: Learn, Protect, Stay Secure.",
+  "private": true,
+  "scripts": {
+    "start": "npx serve . -l 5500"
+  }
+}
